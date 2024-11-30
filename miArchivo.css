@@ -1,17 +1,32 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: #020202;
+    text-align: justify;
+    line-height: 1.5;
+}
+
 .Importante {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 12px;
+    font-size: 15px;
     color: #c21414;
     font-weight: bold;
     font-style: oblique;
     text-align: justify;
     line-height: 1.5;
 }
-p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 12px;
-    color: #020202;
+
+h1 {
+    font-size: 37px;
     text-align: justify;
-    line-height: 1.5;
+    line-height: 1;
+    margin: auto;
+}
+.box1 {
+    border: 1px solid #15f5c1;
+    padding: 20px;
+    margin: auto;
+    background-color: #e25151;
+    border-radius: 70px 10px;
 }
 
